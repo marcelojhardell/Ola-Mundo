@@ -1,2 +1,4 @@
-# Ola Mundo
+# Olá, Mundo
 Primeiro repositorio 
+
+Repositorio criado para fins de estudo
